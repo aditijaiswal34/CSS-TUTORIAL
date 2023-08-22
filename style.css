@@ -1,0 +1,43 @@
+#box{
+    background-color: bisque;
+    
+}
+.heading{
+    color:darkblue
+}  
+p{
+    text-align: left;
+}
+h1{
+    text-align: center;
+    text-decoration: red wavy underline;
+}
+  
+
+#one{
+    font-family: Arial;
+}
+#two{
+    font-family: 'Segoe UI';
+} 
+#one{
+    font-size:25px;
+    line-height:50px;
+    text-transform: capitalize;
+}
+#three{
+    font-size: 10px; 
+}
+*{
+    font-family: 'Times New Roman';
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size:10px;
+}
