@@ -1,0 +1,59 @@
+ /* div{
+    height:100px;
+    width:100px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+    background-color: pink;
+border-radius: 50%
+
+} 
+ h1{
+    width:200px;
+    height:50px;
+    background-color: aqua;
+    border-width: 10px;
+    border-style: solid;
+    border-color: green;
+}  */
+/* div{
+    height:100px;
+    width:100px;
+    background-color: hsl(177, 71%, 45%);
+    border-radius: 50%;
+} */
+/* *{
+    padding:0;
+    margin:0;
+    color:white
+}
+#navbar{
+    height:60px;
+    background-color: black;
+}
+button{
+    background-color:#f08804;
+}
+#logo{
+    color:#f08804;
+    font-size :30px;
+}
+a{
+    margin-right: 150px;
+} */
+div{
+    width:100px;
+    height:100px;
+    margin:25px;
+    padding:25px;
+    display:inline-block;
+}
+#box1{
+    background-color: rgba(0,0,255,0.5);
+}
+#box2{
+    background-color: rgba(0,0,255,0.75);
+}
+#box3{
+    background-color: rgba(0,0,255,1);
+}
