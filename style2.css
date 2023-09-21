@@ -1,11 +1,11 @@
- /* div{
+   div{
     height:100px;
     width:100px;
     border-width: 2px;
     border-style: solid;
     border-color: blue;
     background-color: pink;
-border-radius: 50%
+border-radius: 50% */
 
 } 
  h1{
@@ -16,13 +16,13 @@ border-radius: 50%
     border-style: solid;
     border-color: green;
 }  */
-/* div{
+  div{
     height:100px;
     width:100px;
     background-color: hsl(177, 71%, 45%);
     border-radius: 50%;
-} */
-/* *{
+}  
+ *{
     padding:0;
     margin:0;
     color:white
@@ -40,20 +40,36 @@ button{
 }
 a{
     margin-right: 150px;
-} */
-div{
+} 
+ div{
     width:100px;
     height:100px;
     margin:25px;
     padding:25px;
     display:inline-block;
 }
-#box1{
+ #box1{
     background-color: rgba(0,0,255,0.5);
 }
-#box2{
+#box2
+{
     background-color: rgba(0,0,255,0.75);
 }
 #box3{
     background-color: rgba(0,0,255,1);
+}  
+.contentBox {
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+    display:inline-block;
+}
+#content{
+    height: 515px;
+
+}
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
 }
